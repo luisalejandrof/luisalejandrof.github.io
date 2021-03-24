@@ -1,2 +1,4 @@
 # luisalejandrof.github.io
-Resume
+Resume / Curriculum Vitae
+
+email: figueroacastillo@gmail.com
